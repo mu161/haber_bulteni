@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Newsletter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 600px;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .header {
+            text-align: center;
+            padding-bottom: 20px;
+        }
+        .header img {
+            max-width: 100%;
+            height: auto;
+        }
+        .content {
+            text-align: left;
+            font-size: 16px;
+            line-height: 1.6;
+            color: #333;
+        }
+        .footer {
+            text-align: center;
+            padding-top: 20px;
+            font-size: 14px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="image.png" alt="Newsletter Header">
+        </div>
+        <div class="content">
+            <h2>Haber Başlığı</h2>
+            <p>Buraya haber içeriğinizi ekleyebilirsiniz. Güncellemeler, kampanyalar veya duyurular için kullanabilirsiniz.</p>
+            <p>Detaylar için web sitemizi ziyaret edin.</p>
+        </div>
+        <div class="footer">
+            <p>&copy; 2025 Tüm Hakları Saklıdır.</p>
+        </div>
+    </div>
+</body>
+</html>
